@@ -12,11 +12,11 @@ Me chamo JP MTA, tenho 20 anos. Atualmente, estou cursando CiÃªncias da ComputaÃ
             src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
         />
     </a>
-    <a href="https://www.youtube.com/@jpmtadev?sub_confirmation=1">
+    <a href="https://instagram.com/jpmtadev">
         <img 
             alt="instagram followers" 
             title="Me siga no Instagram" 
-            src="https://instagram.com/jpmtadev"
+            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
 </p>
